@@ -9,7 +9,7 @@ ios自动打包工具
 
 4. 当前仅支持cocoapod, 项目名称为cocoapod生成的启动文件名, 如zetar.xcworkspace , 项目名称为就为zetar
 
-5. 蒲公英的api文档可查看: 蒲公英 - API文档 (登录可查看_api_key, uKey)
+5. 蒲公英的api文档可查看: https://www.pgyer.com/doc/api#uploadApp (登录可查看_api_key, uKey)
 
 6. 所有设置完成 : Command + R
 
